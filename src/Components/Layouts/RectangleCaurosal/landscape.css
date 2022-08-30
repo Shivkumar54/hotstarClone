@@ -1,0 +1,14 @@
+.lanscape {
+  margin-top: 30px;
+}
+
+.imagester {
+  width: 220px;
+  height: 160px;
+  padding: 0 5px;
+}
+.contentfitter {
+  width: 100%;
+  border-radius: 10px;
+  height: 100%;
+}

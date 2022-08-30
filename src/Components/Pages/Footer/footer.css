@@ -1,0 +1,50 @@
+.footer {
+  display: flex;
+  gap: 100px;
+  justify-content: space-between;
+  margin: 60px 30px 0 30px;
+  align-items: center;
+}
+
+/* .linkss {
+  width: 50%;
+} */
+
+.uler {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  margin: 10px 0;
+  padding: 0;
+}
+li {
+  text-decoration: none;
+  color: rgb(175, 175, 175);
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+li:hover {
+  color: rgb(0, 174, 255);
+}
+
+.footerPara {
+  font-size: 14px;
+}
+.icon {
+  display: flex;
+  gap: 10px;
+}
+.iconer {
+  color: rgb(180, 180, 180);
+}
+.iconer:hover {
+  color: rgb(0, 174, 255);
+}
+
+.download {
+  display: flex;
+  gap: 10px;
+}
