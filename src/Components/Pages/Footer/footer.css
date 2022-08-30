@@ -48,3 +48,24 @@ li:hover {
   display: flex;
   gap: 10px;
 }
+
+@media screen and (max-width: 1020px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: space-between;
+    margin: 60px 30px 10px 30px;
+    align-items: center;
+  }
+  .uler {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    list-style: none;
+    margin: 30px 0;
+    padding: 0;
+  }
+}

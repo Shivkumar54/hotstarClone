@@ -12,3 +12,11 @@
   border-radius: 10px;
   height: 100%;
 }
+
+@media screen and (max-width:1020px) {
+  .imagester {
+  width: 220px;
+  height: 100px;
+  padding: 0 5px;
+}
+}
